@@ -1,0 +1,6 @@
+clear
+banner calender
+echo -n "Input a month: "
+read input
+cal $input 2020
+
